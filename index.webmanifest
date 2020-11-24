@@ -1,0 +1,18 @@
+{
+  "name": "QIANQIAN (LEE) CUI",
+  "short_name": "QIANQIAN (LEE) CUI",
+  "lang": "en-us",
+  "theme_color": "#8A2BE2",
+  "background_color": "#8A2BE2",
+  "icons": [{
+    "src": "/images/icon_hufdfc00194a0c5d8733dc7306de472050_36797_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hufdfc00194a0c5d8733dc7306de472050_36797_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

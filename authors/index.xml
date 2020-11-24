@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | QIANQIAN (LEE) CUI</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hufdfc00194a0c5d8733dc7306de472050_36797_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Qianqian (Lee) Cui</title>
+      <link>/author/qianqian-lee-cui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/qianqian-lee-cui/</guid>
+      <description>&lt;p&gt;My name is Qianqian (Lee) Cui. I am currently a MA student in NYU&amp;rsquo;s General Psychology program, working on my thesis under the guidance of 
+&lt;a href=&#34;https://as.nyu.edu/content/nyu-as/as/faculty/david-amodio.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. David M. Amodio&lt;/a&gt; in the 
+&lt;a href=&#34;https://amodiolab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amodio Social Neuroscience Lab&lt;/a&gt;.&lt;br&gt;
+I am interested in how social cognitive knowledge influences social perception and attitude formation. I am also open to other related topics and passionate about developing prejudice interventions. Please see my &lt;a href=&#34;/psychology/&#34;&gt; research here&lt;/a&gt;.&lt;br&gt;
+During my downtime, I love to draw &lt;a href=&#34;/art/#mid&#34;&gt; digital illustrations &lt;/a&gt;as an approach to inform my research. I am also working on an &lt;a href=&#34;/art/#intro&#34;&gt; iOS habit tracker app &lt;/a&gt; independently.  &lt;a href=&#34;/files/CV_Qianqian_Cui.pdf&#34;&gt;[Curriculum Vitae]&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;honors--awards&#34;&gt;Honors &amp;amp; Awards&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NYU Graduate Student Research Award&lt;/li&gt;
+&lt;li&gt;NYU 24th Annual MA Research Conference Best Poster, First Place Award&lt;/li&gt;
+&lt;li&gt;Rutgers University Dorothy and David Cooper Scholarship&lt;/li&gt;
+&lt;li&gt;Rutgers University Dean&amp;rsquo;s List&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
